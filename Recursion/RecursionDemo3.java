@@ -1,4 +1,4 @@
-//! check if the arrya is sorted(Strictly increasing)
+//! check if the arrays is sorted(Strictly increasing)
 public class RecursionDemo3 {
     public static boolean isSorted(int arr[],int idx)
     {
